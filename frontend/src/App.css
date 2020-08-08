@@ -9,13 +9,10 @@
 body {
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background-color: #f2f2f2;
 }
 
 * {
   font-family: "Inter", Helvetica, helvetica, Arial, sans-serif;
-}
-
-.App {
-  padding: 2rem;
-  text-align: left;
 }
