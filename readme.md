@@ -1,5 +1,8 @@
 # chime-fullstack-project
 
+## This is a website I created for a 'project-based-interview' with Chime
+### The prompt is below this line
+
 ### Introduction
 
 Hello, thank you for considering Chime! We have designed this project-based interview to create a better interview experience for you; if you would prefer a traditional interview please let us know (this will have no impact on your interview). If this takes you longer than 4 hours please stop and send us what you have.
