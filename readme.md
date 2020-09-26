@@ -1,6 +1,6 @@
 # chime-fullstack-project
 
-## This is a website I created for a 'project-based-interview' with Chime
+## This is a website I created for a project-based-interview with Chime
 ### The prompt is below this line
 
 ### Introduction
